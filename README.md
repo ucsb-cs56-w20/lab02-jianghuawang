@@ -1,6 +1,7 @@
 # lab02-jianghuawang
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-jianghuawang/
+
 Repo: https://github.com/ucsb-cs56-w20/lab02-jianghuawang
 
 # About this repo
