@@ -1,7 +1,7 @@
 # lab02-jianghuawang
 
-Javadoc: https://ucsb-cs56-w20.github.io/STARTER-lab02
-Repo: https://ucsb-cs56-w20/STARTER-lab02
+Javadoc: https://ucsb-cs56-w20.github.io/lab02-jianghuawang/
+Repo: https://github.com/ucsb-cs56-w20/lab02-jianghuawang
 
 # About this repo
 
