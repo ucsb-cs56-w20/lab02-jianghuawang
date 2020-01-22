@@ -1,4 +1,4 @@
-# lab02-jianghuawang
+# lab02-jianghuawang(jianghuawang)
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-jianghuawang/
 
